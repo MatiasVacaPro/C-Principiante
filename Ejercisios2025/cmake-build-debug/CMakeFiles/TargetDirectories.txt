@@ -1,0 +1,3 @@
+/Users/nicolevaca/CLionProjects/Ejercisios2025/cmake-build-debug/CMakeFiles/untitled4.dir
+/Users/nicolevaca/CLionProjects/Ejercisios2025/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nicolevaca/CLionProjects/Ejercisios2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir
